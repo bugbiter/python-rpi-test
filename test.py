@@ -10,6 +10,7 @@ GPIO.setup(0, GPIO.IN)
 
 #on = True
 
+print "Starting python-rpi-test"
 # Every second read input
 while True:
 #    GPIO.output(0, on)
